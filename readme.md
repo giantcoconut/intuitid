@@ -2,7 +2,7 @@
 
 **Pixie ID Generator** is a fun, fast, and unique way to mint your on-chain identity with @0Xintuition.
 
-🎉 Whether you're new to web3 or deep into the ecosystem, your Pixie ID is a personalized badge that says:  
+🎉 Whether you're new to web3 or deep into the ecosystem, your Intuit ID is a personalized badge that says:  
 **“I trust my intuition.”**
 
 ## 🚀 Try It Out
